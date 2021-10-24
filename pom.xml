@@ -30,5 +30,10 @@
             <artifactId>commons-codec</artifactId>
             <version>1.11</version>
         </dependency>
+        <dependency>
+            <groupId>org.sonatype.nexus.ci</groupId>
+            <artifactId>nexus-jenkins-plugin</artifactId>
+            <version>3.12.20211019-085324.d8da475</version>
+            </dependency>
     </dependencies>
 </project>
